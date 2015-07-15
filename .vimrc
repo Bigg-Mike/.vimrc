@@ -1,4 +1,5 @@
-" CONFIGURATION DE VIM - Florent SANLAVILLE
+" CONFIGURATION DE VIM
+" PAR Bigg-Mike
 
 " Annule la compatibilite avec VI.
 set nocompatible

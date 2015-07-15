@@ -59,6 +59,3 @@ filetype indent on
 " SOLARIZED
 set background=dark
 colorscheme solarized
-
-" NERD TREE
-autocmd vimenter * NERDTree

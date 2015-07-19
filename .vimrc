@@ -1,5 +1,5 @@
 " CONFIGURATION DE VIM
-" PAR Bigg-Mike
+" Par Bigg-Mike
 
 " Annule la compatibilite avec VI.
 set nocompatible
@@ -24,6 +24,7 @@ set scrolloff=3
 set hidden
 set mouse=a
 set cursorline
+set cc=80
 set textwidth=80
 set tabstop=4
 set shiftwidth=4

@@ -1,4 +1,5 @@
-# .vimrc
-This is my .vimrc configuration!
+# .vimrc and .tmux.conf
 
-Ma configuration pour mon .vimrc!
+This is my .vimrc configuration and my tmux conf'!
+
+Ma configuration pour mon .vimrc et pour tmux!
